@@ -41,7 +41,7 @@ The dataset is located in the `data/` folder. It includes:
 
 2. **Run the Jupyter Notebooks**
    
-Navigate to the `notebooks/` folder and open the Jupyter Notebooks to:
+Navigate to the `models/` folder and open the Jupyter Notebooks to:
 
 3. **Preprocess the data**
 
@@ -49,7 +49,7 @@ Train and evaluate machine learning models using different techniques (e.g., Ran
 
 4. **Generate Results**
    
-The results, including performance metrics and visualizations, will be saved in the `results/` directory.
+The results, including performance metrics and visualizations, included in the notebooks.
 
 ## Dataset
 
