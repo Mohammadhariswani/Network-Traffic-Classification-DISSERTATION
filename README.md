@@ -31,7 +31,7 @@ Install the required Python libraries by running:
 
 1. **Explore the Dataset**
    
-The dataset is located in the `data/raw/` folder. It includes:
+The dataset is located in the `data/` folder. It includes:
 
 * KDDTest: Test dataset.
 
